@@ -5,7 +5,7 @@
     font-family:system-ui;
 }
 body{
-    background:#1c375e;
+    background:#f2f2f2;
     padding:30px;
 }
 .container{
@@ -17,11 +17,11 @@ h1{
     text-align:center;
 }
 .card{
-    background:white;
+    background:rgb(171, 234, 26);
     padding:20px;
     border-radius:12px;
     margin-bottom:16px;
-    box-shadow:0 2px 8px #00000015;
+    box-shadow:0 2px 8px #58830d15;
 }
 ul{
     margin-top:12px;
@@ -31,5 +31,5 @@ li{
     padding:6px 0;
 }
 a{
-    color:#2563eb;
+    color:#f2f5fa;
 }
